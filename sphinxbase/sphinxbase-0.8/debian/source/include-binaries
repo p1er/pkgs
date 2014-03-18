@@ -1,0 +1,12 @@
+debian/hithere/usr/bin/sphinx_cepview
+debian/hithere/usr/bin/sphinx_cont_adseg
+debian/hithere/usr/bin/sphinx_cont_fileseg
+debian/hithere/usr/bin/sphinx_fe
+debian/hithere/usr/bin/sphinx_jsgf2fsg
+debian/hithere/usr/bin/sphinx_lm_convert
+debian/hithere/usr/bin/sphinx_lm_eval
+debian/hithere/usr/bin/sphinx_pitch
+debian/hithere/usr/lib/arm-linux-gnueabihf/libsphinxad.so.0
+debian/hithere/usr/lib/arm-linux-gnueabihf/libsphinxad.so.0.0.1
+debian/hithere/usr/lib/arm-linux-gnueabihf/libsphinxbase.so.1
+debian/hithere/usr/lib/arm-linux-gnueabihf/libsphinxbase.so.1.1.1

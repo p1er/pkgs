@@ -1,0 +1,12 @@
+Source: sphinxbase
+Maintainer: <p1er@github.com>
+Section: misc
+Priority: optional
+Standards-Version: 3.9.2
+Build-Depends: debhelper (>= 9), bison, libasound2-dev
+
+Package: sphinxbase
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: speech recognition base libraries
+ base libraries and binaries for pocketsphinx

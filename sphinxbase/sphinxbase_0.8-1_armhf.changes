@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 07 Mar 2014 11:19:27 -0500
+Source: sphinxbase
+Binary: sphinxbase
+Architecture: source armhf
+Version: 0.8-1
+Distribution: UNRELEASED
+Urgency: low
+Maintainer: <p1er@github.com>
+Changed-By: <p1er@github.com>
+Description: 
+ sphinxbase - speech recognition base libraries
+Changes: 
+ sphinxbase (0.8-1) UNRELEASED; urgency=low
+ .
+   * Initial release.
+Checksums-Sha1: 
+ f12fc237ce04013703c67427e15a3791dcb74984 793 sphinxbase_0.8-1.dsc
+ c0c4d52e143d07cd593bd6bcaeb92b9a8a5a8c8e 3313197 sphinxbase_0.8.orig.tar.gz
+ 66a33769646a1bc1d3a2a37fc40cc7dd39b1451c 506474 sphinxbase_0.8-1.debian.tar.gz
+ e5d9cffd0c491cc7b7abcd2c1fd495b87bbd73b7 417740 sphinxbase_0.8-1_armhf.deb
+Checksums-Sha256: 
+ 89b40421b6bb41a84b7e34c43240c94059303c74fbd45216ac61f40ed1ce4b71 793 sphinxbase_0.8-1.dsc
+ 55708944872bab1015b8ae07b379bf463764f469163a8fd114cbb16c5e486ca8 3313197 sphinxbase_0.8.orig.tar.gz
+ f70ee71c89b3428196074daf49a7a01bee3074aee56284d4eec664e435215e8d 506474 sphinxbase_0.8-1.debian.tar.gz
+ affb0ad0afcc2f06c137417e8a002b6fe3f8b73d580a8974581b4fcd54844f2e 417740 sphinxbase_0.8-1_armhf.deb
+Files: 
+ 3bc0775414acee5de1aa55d375d50352 793 misc optional sphinxbase_0.8-1.dsc
+ 7335d233f7ad4ecc4b508aec7b5dc101 3313197 misc optional sphinxbase_0.8.orig.tar.gz
+ 7c44c41ae76dc64c2beb1c15989625e9 506474 misc optional sphinxbase_0.8-1.debian.tar.gz
+ 4a81ba9b444ba37e937d621c19f37241 417740 misc optional sphinxbase_0.8-1_armhf.deb

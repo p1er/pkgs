@@ -1,0 +1,8 @@
+#!/usr/bin/make -f
+DEB_CONFIGURE_EXTRA_FLAGS+=--enable-fixed
+
+%:
+	dh $@
+
+override_dh_auto_install:
+	$(MAKE) DESTDIR=$$(pwd)/debian/sphinxbase prefix=/usr install

@@ -1,0 +1,9 @@
+#!/bin/sh
+# -nc     : do not clean source
+# -us -uc : don't sign source or changelog
+
+debuild --no-lintian                         \
+   -us -uc                                   \
+#   -nc                                       \
+   --source-option=--include-binaries        \
+   --source-option=-isession                

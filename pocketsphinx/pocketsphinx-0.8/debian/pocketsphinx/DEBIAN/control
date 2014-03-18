@@ -1,0 +1,10 @@
+Package: pocketsphinx
+Version: 0.8-1
+Architecture: armhf
+Maintainer: <p1er@github.com>
+Installed-Size: 34858
+Depends: libasound2 (>= 1.0.16), libc6 (>= 2.13-28), sphinxbase
+Section: misc
+Priority: optional
+Description: speech recognition utilities
+ Speech recognition utilities from Carnegie Mellon University
